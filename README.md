@@ -1,1 +1,2 @@
-# Student Management System
+# Student Management System 
+Для активацци проеккта необходима удалённая бд а такжже корневые сертификаты.
